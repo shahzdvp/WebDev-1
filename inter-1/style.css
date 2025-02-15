@@ -70,18 +70,6 @@ input
     border-radius: 2px;
 }
 
-/* li::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 16px;
-    height: 16px;
-    border: 2px solid #999;
-    border-radius: 2px;
-} */
-
 li.checked::before {
     background: #999;
     content: '✓';
